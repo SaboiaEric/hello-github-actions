@@ -3,3 +3,6 @@
 This course will walk you through writing your first action and using it with a workflow file. 
 
 **Ready to get started? Navigate to the first issue.**
+
+Course: https://docs.microsoft.com/pt-br/learn/paths/automate-workflow-github-actions/
+
